@@ -42,31 +42,18 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lithuania.
 
 - :telescope: I'm working as a Web Engineer and contributing to frontend and backend for building web applications
-- :seedling: I'm currently learning advanced React patterns and exploring cloud technologies
+- :seedling: I'm currently learning advanced React patterns and exploring other technologies
 - :zap: I enjoy solving complex problems and building user-friendly interfaces
-- :speech_balloon: Ask me about React, Node.js, GraphQL, or full-stack development
 - :round_pushpin: Based in Lithuania, open to remote opportunities
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a)
-- ⚡ Fun fact: I love turning coffee into code and ideas into reality!
+- ⚡ Fun fact: I love turning coffee into ideas!
 
 ---
 
 ### :rocket: Featured Projects :
 
-**[E-Commerce Platform](https://github.com/ArturUvarov/project1)** - Full-stack e-commerce solution built with React, Node.js, and MongoDB
-- 🛒 Shopping cart functionality with payment integration
+**[Review Platform](https://github.com/ArturUvarov/Atsiliepimu-projektas)** - Full-stack review platform built with React and Drizzle
 - 👤 User authentication and authorization
 - 📱 Responsive design with modern UI/UX
-
-**[Task Management App](https://github.com/ArturUvarov/project2)** - Real-time collaborative task manager using GraphQL and Apollo
-- 🔄 Real-time updates with subscriptions
-- 👥 Team collaboration features
-- 📊 Progress tracking and analytics
-
-**[Weather Dashboard](https://github.com/ArturUvarov/project3)** - Interactive weather application with data visualization
-- 🌤️ Live weather data from multiple APIs
-- 📈 Charts and graphs using Chart.js
-- 🎨 Beautiful, responsive interface
 
 ---
 
@@ -139,28 +126,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :writing_hand: Latest Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications](https://your-blog.com/post1)
-- [GraphQL vs REST: A Developer's Perspective](https://your-blog.com/post2)
-- [Docker for JavaScript Developers](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### :coffee: What I'm Currently Working On :
 
-- 🔭 Building a microservices architecture with Node.js and Docker
-- 🌱 Learning AWS and cloud deployment strategies
-- 👯 Looking to collaborate on open-source React projects
-- 💬 Writing technical articles about full-stack development
+- 🔭 Building a app for fitness
+- 🌱 Learning Cyber Security
+- 👯 Looking for a job
+
 
 ---
 
 ### :handshake: Let's Connect :
 
-I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Feel free to reach out!
+Feel free to reach out!
 
 <div align="center">
   
