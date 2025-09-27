@@ -10,13 +10,13 @@
         alt="LinkedIn Badge"
       />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:sancezartur@gmail.com.com">
       <img 
         src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" 
         alt="Email Badge"
       />
     </a>
-    <a href="https://your-portfolio.com">
+    <a href="">
       <img 
         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" 
         alt="Portfolio Badge"
