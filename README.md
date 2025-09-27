@@ -155,6 +155,6 @@ Feel free to reach out!
 
 <div align="center">
   
-**Thank you for visiting my profile! ⭐️ From [ArturUvarov](https://github.com/ArturUvarov)**
+**Thank you for visiting my profile! ⭐️**
 
 </div>
