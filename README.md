@@ -18,7 +18,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
 </div>
----
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZvbDV1YWk1eWxtY2ZmczYyOTByeWNoZHlsbXNpa2k4aGNxeDB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="600" height="400"/>
 </div>
@@ -32,3 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a Web Engineer and contributing to frontend and backend for building web applications.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
