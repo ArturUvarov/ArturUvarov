@@ -22,7 +22,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZvbDV1YWk1eWxtY2ZmczYyOTByeWNoZHlsbXNpa2k4aGNxeDB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="600" height="400"/>
 </div>
 
-***
+*
 
 ### :man_technologist: About Me :
 
