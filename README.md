@@ -44,7 +44,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: I'm currently learning advanced React patterns and exploring other technologies
 - :zap: I enjoy solving complex problems and building user-friendly interfaces
 - :round_pushpin: Based in Lithuania, open to remote opportunities
-- ⚡ Fun fact: I love turning coffee into ideas!
 
 ---
 
@@ -131,30 +130,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 Learning Cyber Security
 - 👯 Looking for a job
 
-
 ---
 
-### :handshake: Let's Connect :
-
-Feel free to reach out!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
 **Thank you for visiting my profile! ⭐️**
 
 </div>
