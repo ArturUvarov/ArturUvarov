@@ -16,11 +16,6 @@
         alt="Email Badge"
       />
     </a>
-    <a href="">
-      <img 
-        src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" 
-        alt="Portfolio Badge"
-      />
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ArturUvarov&style=flat-square&color=blue" alt="Profile Views"/>
