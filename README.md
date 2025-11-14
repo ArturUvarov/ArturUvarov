@@ -1,8 +1,4 @@
 <div id="header" align="center">
-  <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZ0bzBoYjZ5ZGl1aGl1NGJmbHJ6N2V2ZXo3aXg1ZTJ2Znp5d3RvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWemKXhLNfhUdeU/giphy.gif" 
-    width="200" 
-  />
   <div id="badges" style="margin-top: 10px;">
     <a href="https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a">
       <img 
