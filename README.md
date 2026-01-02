@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ibb.co/B5ZRNVNK"><img src="https://images.unsplash.com/photo-1473864803180-ca1b3d93c9a0?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="937bb4bbf40ce96b39f91c59e7340e0c" border="0"></a>
+ <a href="https://ibb.co/Y7NMpZd4"><img src="https://i.ibb.co/6RyxgBtc/Your-paragraph-text.png" alt="Your-paragraph-text" border="0"></a>
 </div>
 
 ---
