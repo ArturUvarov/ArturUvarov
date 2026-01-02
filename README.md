@@ -39,6 +39,19 @@
     />
  <img 
       src="https://img.shields.io/badge/Node.js-%23000000?style=for-the-badge&logo=node.js&logoColor=white" 
+      alt="Node.js Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white" 
       alt="LinkedIn Badge"
     />
+
+
+
+
+
+
+
+
+
 </div>
