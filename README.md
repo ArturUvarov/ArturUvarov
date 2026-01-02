@@ -16,6 +16,7 @@
 ---
   
  <div align="center">
-  <h2 style="margin-top: 40px;">About Me</h2>
+  <i style="margin-top: 40px;">About Me<i>
  </div>
 
+---
