@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://i.ibb.co/kVc4TTvn/Wellcome-to-Artur-s-Github.png" alt="Wellcome-to-Artur-s-Github">
+ <img src="https://i.ibb.co/kVc4TTvn/Wellcome-to-Artur-s-Github.png" alt="Wellcome-to-Artur-s-Github" height="1000">
 </div>
 
 ---
