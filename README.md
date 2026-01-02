@@ -13,10 +13,3 @@
   </a>
 </div>
 
----
-  
- <div align="center">
-  <b style="margin-top: 40px; font-size: 100px;">About Me</b>
- </div>
-
----
