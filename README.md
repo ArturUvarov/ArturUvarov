@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/jZfLPf2m"><img src="https://i.ibb.co/Pzj5vjnK/mathias-reding-6sb-LQGOB4-YA-unsplash.jpg" alt="mathias-reding-6sb-LQGOB4-YA-unsplash" border="0"></a>
+<a href="https://ibb.co/kVz1zCFj"><img src="https://i.ibb.co/Xf686RT1/Wellcome-to-Artur-s-Github.png" alt="Wellcome-to-Artur-s-Github" border="0"></a>
 </div>
 
 ---
