@@ -1,8 +1,9 @@
 <div align="center">
- <img src="https://i.ibb.co/kVc4TTvn/Wellcome-to-Artur-s-Github.png" alt="Wellcome-to-Artur-s-Github" height="1000">
+ <img src="https://i.ibb.co/kVc4TTvn/Wellcome-to-Artur-s-Github.png" alt="Wellcome-to-Artur-s-Github">
 </div>
 
----
+
+  
   <div id="badges" style="margin-top: 10px;" align="center">
     <a href="https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a">
       <img 
@@ -11,7 +12,6 @@
       />
     </a>
 </div>
----
 
 ### :man_technologist: About Me :
 
