@@ -4,14 +4,15 @@
 
 ---
  
-  <div id="badges" style="margin-top: 10px;" align="center">
+  <div id="badges" align="center">
     <a href="https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a">
       <img 
         src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" 
         alt="LinkedIn Badge"
       />
     </a>
-</div>
+<span>About me</span>
+  </div>
 
 ---
 
