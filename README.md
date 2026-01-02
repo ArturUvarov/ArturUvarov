@@ -37,4 +37,8 @@
       src="https://img.shields.io/badge/TailwindCSS-%23000000?style=for-the-badge&logo=tailwindcss&logoColor=white" 
       alt="TailwindCSS Badge"
     />
+ <img 
+      src="https://img.shields.io/badge/Node.js-%23000000?style=for-the-badge&logo=node.js&logoColor=white" 
+      alt="LinkedIn Badge"
+    />
 </div>
