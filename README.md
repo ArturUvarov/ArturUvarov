@@ -19,6 +19,22 @@
     />
  <img 
       src="https://img.shields.io/badge/JavaScript-%23000000?style=for-the-badge&logo=javascript&logoColor=white" 
-      alt="LinkedIn Badge"
+      alt="JavaScript Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/TypeScript-%23000000?style=for-the-badge&logo=typescript&logoColor=white" 
+      alt="TypeScript Badge"
+    />
+     <img 
+      src="https://img.shields.io/badge/HTML-%23000000?style=for-the-badge&logo=html&logoColor=white" 
+      alt="Html Badge"
+    />
+     <img 
+      src="https://img.shields.io/badge/Css-%23000000?style=for-the-badge&logo=css&logoColor=white" 
+      alt="CSS Badge"
+    />
+     <img 
+      src="https://img.shields.io/badge/TailwindCSS-%23000000?style=for-the-badge&logo=tailwindcss&logoColor=white" 
+      alt="TailwindCSS Badge"
     />
 </div>
