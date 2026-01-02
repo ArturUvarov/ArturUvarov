@@ -1,11 +1,5 @@
-<div id="header" align="center">
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBvYjRnNXBsNHBoNXZxZDZ4bGk0cnEydmplZHU0bmNpaGJudm1weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTB4o4D0O9IQVQ4/giphy.gif" width="600" height="400"/>
+  <img src="https://www.pinterest.com/pin/507569820517897772/" width="600" height="400"/>
 <div id="badges" style="margin-top: 10px;">
     <a href="https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a">
       <img 
