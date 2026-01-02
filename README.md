@@ -11,6 +11,7 @@
       alt="LinkedIn Badge"
     />
   </a>
-    <b>Tech Stack<?b>
+    
+   <b>Tech Stack<?b>
  </div>
 
