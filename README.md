@@ -13,8 +13,8 @@
   </a>
 
 <h2 style="text-decoration="none">MY STACK</h2>
-<img src="https://img.shields.io/badge/React-%23000000?logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-%23000000?logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-%23000000?logo=typescript&logoColor=white" />
-
+ <img 
+      src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" 
+      alt="LinkedIn Badge"
+    />
 </div>
