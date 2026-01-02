@@ -12,11 +12,9 @@
       />
     </a>
   </div>
-
-
- <div align="center>
+  
+ <div align="center">
    <span>About Me</span>
  </div>
-
 
 ---
