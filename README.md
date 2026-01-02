@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ibb.co/B5ZRNVNK"><img src="https://i.ibb.co/FLwtVbVq/937bb4bbf40ce96b39f91c59e7340e0c.jpg" alt="937bb4bbf40ce96b39f91c59e7340e0c" border="0" height="400" width="600"></a>
+  <a href="https://ibb.co/B5ZRNVNK"><img src="https://i.ibb.co/FLwtVbVq/937bb4bbf40ce96b39f91c59e7340e0c.jpg" alt="937bb4bbf40ce96b39f91c59e7340e0c" border="0"></a>
 <div id="badges" style="margin-top: 10px;">
     <a href="https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a">
       <img 
