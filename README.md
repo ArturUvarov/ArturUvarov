@@ -43,14 +43,48 @@
     />
  <img 
       src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white" 
-      alt="LinkedIn Badge"
+      alt="Express Badge"
     />
-
-
-
-
-
-
+ <img 
+      src="https://img.shields.io/badge/Graphql-%23000000?style=for-the-badge&logo=graphql&logoColor=white" 
+      alt="Graphql Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=white" 
+      alt="MongoDB Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/MySql-%23000000?style=for-the-badge&logo=mysql&logoColor=white" 
+      alt="MySql Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/Docker-%23000000?style=for-the-badge&logo=docker&logoColor=white" 
+      alt="Docker Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/Git-%23000000?style=for-the-badge&logo=git&logoColor=white" 
+      alt="Git Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white" 
+      alt="Linux Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/Trello-%23000000?style=for-the-badge&logo=trello&logoColor=white" 
+      alt="Trello Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/VScode-%23000000?style=for-the-badge&logo=vscode&logoColor=white" 
+      alt="VScode Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/WebStorm-%23000000?style=for-the-badge&logo=webstorm&logoColor=white" 
+      alt="WebStorm Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/Rider-%23000000?style=for-the-badge&logo=rider&logoColor=white" 
+      alt="Rider Badge"
+    />
 
 
 
