@@ -89,6 +89,8 @@
       src="https://img.shields.io/badge/Agile-%23000000?style=for-the-badge&logo=agile&logoColor=white" 
       alt="Agile Badge"
     />
-
-
+ <img 
+      src="https://img.shields.io/badge/Drizzle-%23000000?style=for-the-badge&logo=drizzle&logoColor=white" 
+      alt="Drizzle Badge"
+    />
 </div>
