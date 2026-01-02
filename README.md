@@ -5,7 +5,7 @@
 ---
  
  <div id="badges" align="center" style="margin-bottom: 40px;">
-  <a href="https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a">
+  <a href="https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn Badge"
