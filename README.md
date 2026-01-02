@@ -19,9 +19,4 @@
   <b style="margin-top: 40px;">About Me<b>
  </div>
 
-<div align="left"></div>
- <i style="margin-right: 40px;">Full-stack</i>
-<div>
-
-
 ---
