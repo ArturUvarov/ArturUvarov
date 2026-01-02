@@ -12,6 +12,11 @@
     />
   </a>
     
-   <b>Tech Stack<?b>
+   
+   <b>Tech Stack</b>
+ 
+   <div align="center">
+       ![React](https://img.shields.io/badge/React-black?logo=react&logoColor=white)
+     </div>
  </div>
 
