@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://www.pinterest.com/pin/507569820517897772/" width="600" height="400"/>
+  <img src="" width="600" height="400"/>
 <div id="badges" style="margin-top: 10px;">
     <a href="https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a">
       <img 
