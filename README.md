@@ -12,5 +12,7 @@
       />
     </a>
   </div>
-About Me
+
+<span>About Me</span>
+
 ---
