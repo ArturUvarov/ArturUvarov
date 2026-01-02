@@ -11,15 +11,4 @@
       alt="LinkedIn Badge"
     />
   </a>
-
-  <br><br>
-
-  <b>Tech Stack</b>
-
-  <br><br>
-
-  <img 
-    src="https://img.shields.io/badge/React-%23000000?style=flat&logo=react&logoColor=white"
-    alt="React Badge"
-  />
 </div>
