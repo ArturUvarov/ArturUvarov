@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://ibb.co/BHsyJJFD"><img src="https://i.ibb.co/kVc4TTvn/Wellcome-to-Artur-s-Github.png" alt="Wellcome-to-Artur-s-Github" border="0"></a>
+ <a href="https://ibb.co/BHsyJJFD"><img src="https://i.ibb.co/kVc4TTvn/Wellcome-to-Artur-s-Github.png" alt="Wellcome-to-Artur-s-Github"></a>
 </div>
 
 ---
