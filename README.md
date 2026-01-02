@@ -13,7 +13,7 @@
     </a>
   </div>
   
- <div align="center" style="margin-top:100;">
+ <div align="center" style="margin-bottom:30;">
    <span>About Me</span>
  </div>
 
