@@ -13,9 +13,9 @@
   </a>
 </div>
 
+---
   
  <div align="center">
   <h2 style="margin-top: 40px;">About Me</h2>
  </div>
 
----
