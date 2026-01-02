@@ -12,6 +12,6 @@
     />
   </a>
 
-<h2>My Stack</h2>
+<h2 style="text-decoration="none">My Stack</h2>
 
 </div>
