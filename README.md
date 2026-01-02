@@ -26,7 +26,7 @@
       alt="TypeScript Badge"
     />
      <img 
-      src="https://img.shields.io/badge/HTML-%23000000?style=for-the-badge&logo=html&logoColor=white" 
+      src="https://img.shields.io/badge/Html-%23000000?style=for-the-badge&logo=html&logoColor=white" 
       alt="Html Badge"
     />
      <img 
