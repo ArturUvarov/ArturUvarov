@@ -11,7 +11,6 @@
         alt="LinkedIn Badge"
       />
     </a>
-<span>About me</span>
   </div>
 
 ---
