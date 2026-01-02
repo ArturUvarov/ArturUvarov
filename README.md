@@ -1,3 +1,9 @@
+<div align="center">
+ <img src="https://i.ibb.co/kVc4TTvn/Wellcome-to-Artur-s-Github.png" alt="Wellcome-to-Artur-s-Github" width="900" height="600">
+</div>
+
+---
+
 <div id="badges" align="center" style="margin-bottom: 40px;">
   <a href="https://lt.linkedin.com/in/art%C5%ABr-uvarov-85b64636a" target="_blank">
     <img 
