@@ -15,6 +15,10 @@
 <h2 style="text-decoration="none">MY STACK</h2>
  <img 
       src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" 
+      alt="React Badge"
+    />
+ <img 
+      src="https://img.shields.io/badge/JavaScript-%23000000?style=for-the-badge&logo=javascript&logoColor=white" 
       alt="LinkedIn Badge"
     />
 </div>
