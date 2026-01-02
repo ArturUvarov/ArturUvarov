@@ -22,16 +22,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: I enjoy solving complex problems and building user-friendly interfaces
 - :round_pushpin: Based in Lithuania, open to remote opportunities
 
----
-
-### :rocket: Featured Projects :
-
-**[Review Platform](https://github.com/ArturUvarov/Atsiliepimu-projektas)** - Full-stack review platform built with React and Drizzle
-- 👤 User authentication and authorization
-- 📱 Responsive design with modern UI/UX
-
----
-
 ### :hammer_and_wrench: Tech Stack :
 
 **Frontend Development:**
@@ -90,25 +80,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Artur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArturUvarov&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-### :trophy: GitHub Trophies :
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArturUvarov&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### :coffee: What I'm Currently Working On :
-
-- 🔭 Building a app for fitness
-- 🌱 Learning Cyber Security
-- 👯 Looking for a job
-
----
-
-**Thank you for visiting my profile! ⭐️**
 
 </div>
