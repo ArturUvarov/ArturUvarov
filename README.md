@@ -1,4 +1,3 @@
-  **MY STACK**
 <div align="center">
  <img src="https://i.ibb.co/kVc4TTvn/Wellcome-to-Artur-s-Github.png" alt="Wellcome-to-Artur-s-Github" width="900" height="600">
 </div>
@@ -12,8 +11,9 @@
       alt="LinkedIn Badge"
     />
   </a>
- <div align="center">
- </div>
+</div> 
+ # MY STACK
+ <div align="center" style="margin-bottom: 40px;">
   <img 
       src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" 
       alt="React Badge"
