@@ -98,4 +98,4 @@
 ---
 
 <h2 style="text-decoration:"none";>My Github stats</h2>
-   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ArturUvarov">
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?ArturUvarov=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
