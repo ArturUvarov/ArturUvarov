@@ -12,7 +12,7 @@
     />
   </a>
  <div align="center">
-  #MY STACK
+  # MY STACK
  </div>
   <img 
       src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" 
