@@ -12,7 +12,7 @@
     />
   </a>
 </div> 
- <font size="130"><p align="center">MY STACK</p></font>
+  <p align="center">MY STACK</p>
  <div align="center" style="margin-bottom: 50px;">
   <img 
       src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" 
