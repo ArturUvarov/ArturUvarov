@@ -12,7 +12,7 @@
     />
   </a>
 </div> 
- <p align="center" style="font-size: 100px;">
+ <p align="center" style="font-size: 200%;">
   MY STACK
  </p>
  <div align="center" style="margin-bottom: 40px;">
