@@ -96,9 +96,8 @@
 </div>
 
 ---
+
 <div align="center">
-<h2 style="text-decoration:none;">MY GITHUB STATS</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=arturuvarov">
-</a>
+ <h2 style="text-decoration:none;">MY GITHUB STATS</h2>
+  [![](https://github-readme-stats.vercel.app/apiArturUvarovanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
