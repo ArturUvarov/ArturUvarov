@@ -12,8 +12,8 @@
     />
   </a>
 </div> 
- <p align="center" style="font-size: 200%;">
-  MY STACK
+ <p align="center">
+  <font size="20">MY STACK</font>
  </p>
  <div align="center" style="margin-bottom: 40px;">
   <img 
