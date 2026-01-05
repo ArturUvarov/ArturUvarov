@@ -11,8 +11,8 @@
       alt="LinkedIn Badge"
     />
   </a>
-
-<span style="text-decoration=none; font-size:150%;">MY STACK</span>
+<br>
+<span style="text-decoration=none;">MY STACK</span>
  <img 
       src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" 
       alt="React Badge"
