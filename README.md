@@ -12,7 +12,7 @@
     />
   </a>
 
-<h2 style="text-decorations="none">MY STACK</h2>
+<h2 style="text-decorations=none;">MY STACK</h2>
  <img 
       src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" 
       alt="React Badge"
@@ -97,5 +97,7 @@
 
 ---
 
-<h2 style="text-decoration:"none";>My Github stats</h2>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?ArturUvarov=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<h2 style="text-decoration:none; align:center;">MY GITHUB STATS</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ArturUvarov">
+</a>
