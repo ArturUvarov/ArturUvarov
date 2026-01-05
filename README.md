@@ -12,7 +12,7 @@
     />
   </a>
 
-<h2 style="text-decoration="none">MY STACK</h2>
+<h2 style="text-decorations="none">MY STACK</h2>
  <img 
       src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" 
       alt="React Badge"
@@ -94,3 +94,8 @@
       alt="Drizzle Badge"
     />
 </div>
+
+---
+
+<h2 style="text-decoration:"none";>My Github stats</h2>
+   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ArturUvarov">
