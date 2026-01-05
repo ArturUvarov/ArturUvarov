@@ -12,7 +12,7 @@
     />
   </a>
 
-<h2 style="text-decoration=none;">MY STACK</h2>
+<span style="text-decoration=none; font-size:150%;">MY STACK</span>
  <img 
       src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=white" 
       alt="React Badge"
