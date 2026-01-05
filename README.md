@@ -96,8 +96,9 @@
 </div>
 
 ---
-
-<h2 style="text-decoration:none; align:center;">MY GITHUB STATS</h2>
+<div align="center">
+<h2 style="text-decoration:none;">MY GITHUB STATS</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ArturUvarov">
+   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=arturuvarov">
 </a>
+</div>
